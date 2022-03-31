@@ -409,11 +409,11 @@ body{
   }
   
   .p2 {
-    background: url("/images/uvlightcontrol.png");
+    background: url(images/uvlightcontrol.png);
 
   }
   .p1 {
-    background: url("/images/circuitboard.png");
+    background: url(images/circuitboard.png);
 
   }
   .p3 {
@@ -430,32 +430,32 @@ body{
 
   }
   .p6 {
-    background: url("/images/conveyor.png");
+    background: url(images/conveyor.png);
 
   }
 
   .g2 {
-    background: url("/images/calendar.png");
+    background: url(images/calendar.png);
 
   }
   .g1 {
-    background: url("/images/Laundry.png");
+    background: url(images/Laundry.png);
 
   }
   .g3 {
-    background: url("/images/py.png");
+    background: url(images/py.png);
 
   }
   .g4 {
-    background: url("/images/rental.png");
+    background: url(images/rental.png);
 
   }
   .g5 {
-    background: url("/images/qr.png");
+    background: url(images/qr.png);
 
   }
   .g6 {
-    background: url("/images/emagazine.png");
+    background: url(images/emagazine.png);
 
   }
 
