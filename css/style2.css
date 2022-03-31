@@ -28,8 +28,9 @@ html, body {
 }
 
 #tab1::after {
-  content: '';
+  content: 'Hover Me';
   position: absolute;
+  color: black;
   width: 5vw;
   height: 25vh;
   background: #d3c3c3;
@@ -44,8 +45,9 @@ html, body {
 }
 
 #tab2::after {
-  content: '';
+  content: 'Hover Me';
   position: absolute;
+  color: black;
   width: 5vw;
   height: 25vh;
   background: #d3c3c3;
@@ -60,8 +62,9 @@ html, body {
 }
 
 #tab3::after {
-  content: '';
+  content: 'Hover Me';
   position: absolute;
+  color: black;
   width: 5vw;
   height: 25vh;
   background: #d3c3c3;
@@ -76,8 +79,9 @@ html, body {
 }
 
 #tab4::after {
-  content: '';
+  content: 'Hover Me';
   position: absolute;
+  color: black;
   width: 5vw;
   height: 25vh;
   background: #d3c3c3;

@@ -65,7 +65,7 @@ let projects2 = [
 {
     name: "project five",
     class:"g5",
-    portfolio:"",
+    portfolio:"https://jednalig.github.io/Event-management/",
     tip:"Event Management Using QR code"
 },
 {

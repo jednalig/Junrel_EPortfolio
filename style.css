@@ -61,7 +61,7 @@ body{
 	100% 100%, 50% 0);
 	width: 70vh;
 	height: 50vh;
-    background: url(images/ep.jpg) no-repeat center center;
+  background: url(images/ep.jpg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
 	top: 33vh;
@@ -237,7 +237,7 @@ body{
     height: 124px;
     margin-top: 100px;
     margin-left: -40px;
-    background-image: url("Junrel_EPortfolio/images/skill.png");
+    background: url("/images/skill.png");
     
    
   }
@@ -248,7 +248,7 @@ body{
     height: 124px;
     margin-top: -250px;
     margin-left: 275px;
-    background-image: url("/images/others.png");
+    background: url("/images/others.png");
     
    
   }
@@ -409,52 +409,52 @@ body{
   }
   
   .p2 {
-    background-image: url("/images/uvlightcontrol.png");
+    background: url("/images/uvlightcontrol.png");
 
   }
   .p1 {
-    background-image: url("/images/circuitboard.png");
+    background: url("/images/circuitboard.png");
 
   }
   .p3 {
-    background-image: url("/images/LoadCELL.png");
+    background: url("/images/LoadCELL.png");
 
   }
   .p4 {
-    background-image: url("/images/ojt.jpg");
+    background: url("/images/ojt.jpg");
 
   }
   .p5 {
-    background-image: url("/images/fingerprint.png");
+    background: url("/images/fingerprint.png");
 
   }
   .p6 {
-    background-image: url("/images/conveyor.png");
+    background: url("/images/conveyor.png");
 
   }
 
   .g2 {
-    background-image: url("/images/calendar.png");
+    background: url("/images/calendar.png");
 
   }
   .g1 {
-    background-image: url("/images/Laundry.png");
+    background: url("/images/Laundry.png");
 
   }
   .g3 {
-    background-image: url("/images/py.png");
+    background: url("/images/py.png");
 
   }
   .g4 {
-    background-image: url("/images/rental.png");
+    background: url("/images/rental.png");
 
   }
   .g5 {
-    background-image: url("/images/qr.png");
+    background: url("/images/qr.png");
 
   }
   .g6 {
-    background-image: url("/images/emagazine.png");
+    background: url("/images/emagazine.png");
 
   }
 

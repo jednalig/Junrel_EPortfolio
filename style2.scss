@@ -1,8 +1,9 @@
 @mixin tab($col,$tabPos){
   
   &::after{
-    content:'';     
+    content:'Hover Me';     
     position:absolute;
+    color:black;
     width:5vw;
     height:25vh;
     background:$col;
@@ -17,6 +18,7 @@ $col2: white;
 $col3: white;
 $col4: white;
 $col5: rgb(211, 195, 195);
+
 
 html,body{
   height:100%;
