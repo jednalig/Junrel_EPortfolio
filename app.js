@@ -1,36 +1,36 @@
 let projects = [
     {
-        name: "Project one",
+        name: "CLICK ME:",
         class:"p1",
         portfolio:"https://oshwlab.com/jednalig/integrated-circuit-kit",
         lbl:"Integrated Circuit Board"
     },
     {
-        name: "Poject two",
+        name: "CLICK ME:",
         class:"p2",
         portfolio:"https://easyeda.com/account/user/projects/index/detail?project=7826fa8b095f4eaf807df8f4ddfc3d8b&folder=all",
         lbl:"UV light Control"
       },
     {
-        name: "project three",
+        name: "CLICK ME:",
         class:"p3",
         portfolio:"",
         lbl:"Arduino Weighing Scale with Load Cell & HX711 Module - Full Calibration"
     },
     {
-        name: "project four",
+        name: "CLICK ME:",
         class:"p4",
         portfolio:"",
         lbl:"Score Board Using At89c2051"
     },
     {
-        name: "project five",
+        name: "CLICK ME:",
         class:"p5",
         portfolio:"",
         lbl:"Lock System Using Fingerprint and Atmega"
     },
     {
-        name: "project six",
+        name: "CLICK ME:",
         class:"p6",
         portfolio:"",
         lbl:"Mini conveyor segrator using Sensors"
@@ -39,39 +39,39 @@ let projects = [
 ]
 let projects2 = [
   {
-    name: "Project one",
+    name: "CLICK ME:",
     class:"g1",
     portfolio:"",
     tip:"Laundry Management System with SMS API"
 },
 {
-    name: "Project two ",
+    name: "CLICK ME:",
     class:"g2",
     portfolio:"",
     tip:"E-Calendar Management System"
 },
 {
-    name: "project three",
+    name: "CLICK ME:",
     class:"g3",
     portfolio:"",
     tip:"Attendance Face Recognition System(Machine Learning)"
 },
 {
-    name: "project four",
+    name: "CLICK ME:",
     class:"g4",
     portfolio:"",
     tip:"Online House Rental"
 },
 {
-    name: "project five",
+    name: "CLICK ME:",
     class:"g5",
     portfolio:"https://jednalig.github.io/Event-management/",
     tip:"Event Management Using QR code"
 },
 {
-    name: "project six",
+    name: "CLICK ME:",
     class:"g6",
-    portfolio:"",
+    portfolio:"https://jednalig.github.io/eportfolio/",
     tip:"E-Magazine Travel Phil."
 }
    
